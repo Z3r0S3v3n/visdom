@@ -59,7 +59,7 @@
     "react": "^16.14.0",
     "react-devtools": "^4.24.4",
     "react-dom": "^16.14.0",
-    "react-grid-layout": "0.16.6",
+    "react-grid-layout": "0.18.3",
     "react-modal": "^3.14.4",
     "react-resize-detector": "^4.2.3",
     "stream-browserify": "^3.0.0",
